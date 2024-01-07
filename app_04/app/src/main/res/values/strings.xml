@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">app_04</string>
+    <string name="tv_center">Center</string>
+    <string name="tv_start">Start</string>
+    <string name="tv_end">End</string>
+    <string name="tv_tv1">TV1</string>
+    <string name="tv_tv2">TV2</string>
+    <string name="tv_tv3">TV3</string>
+    <string name="tv_gravityLayout">Layout Gravity</string>
+    <string name="tv_gravity">gravity</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">app_09_event_C</string>
+
+    <string name="tv_hello">Hello world!</string>
+    <string name="tv_button">Button</string>
+    <string name="tv_bum">bum</string>
+</resources>

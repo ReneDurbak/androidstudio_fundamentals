@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">app_02_linearLayout</string>
+    <string name="tv_Hello_World">Hello World!</string>
+</resources>

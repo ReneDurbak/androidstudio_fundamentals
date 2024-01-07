@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">app_10_buttons</string>
+    <string name="bt_click_1">Click 1</string>
+    <string name="bt_click_2">Click 2</string>
+    <string name="tv_hello_world">Hello World!</string>
+    <string name="tv_cauko">Cauko</string>
+    <string name="tv_ahoj">Ahoj</string>
+</resources>

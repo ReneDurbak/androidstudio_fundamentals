@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tv_tv1">#EDA6A6</color>
+    <color name="tv_end">#EDA6A6</color>
+    <color name="tv_tv3">#A9BBEA</color>
+    <color name="tv_tv2">#A8DC9F</color>
+    <color name="tv_center">#A8DC9F</color>
+    <color name="tv_gravity">#DCACED</color>
+    <color name="tv_start">#DCC989</color>
+</resources>
